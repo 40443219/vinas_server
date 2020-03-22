@@ -1,0 +1,6 @@
+node_modules
+
+# files
+/files/*
+
+.DS_Store
