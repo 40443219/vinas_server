@@ -1,6 +1,6 @@
 # vinas_server
 
-A web-based NAS system(developing)
+A web-based NAS server system(developing)
 
 
 
