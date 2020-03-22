@@ -5,6 +5,7 @@ A web-based NAS server system(developing)
 ## Techs or modules
 * Koa2
 * MongoDB
+* JWT
 
 ## How to test this project
 
