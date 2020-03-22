@@ -2,7 +2,9 @@
 
 A web-based NAS server system(developing)
 
-
+## Techs or modules
+* Koa2
+* MongoDB
 
 ## How to test this project
 
@@ -18,7 +20,7 @@ A web-based NAS server system(developing)
 
    For example:
 
-   ```Env
+   ```env
    PORT=8888
    MONGODB_HOST=192.168.2.10
    MONGODB_PORT=27017
