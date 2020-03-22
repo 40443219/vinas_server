@@ -25,6 +25,8 @@
     "koa-views": "^6.2.0",
     "mime-types": "^2.1.26",
     "mongodb": "^3.5.0",
+    "acorn": ">=5.7.4",
+    "minimist": ">=1.2.2",
     "pug": "^2.0.3"
   },
   "devDependencies": {
