@@ -27,7 +27,7 @@
     "mime-types": "^2.1.26",
     "minimist": ">=1.2.2",
     "mongodb": "^3.5.0",
-    "pug": "^2.0.3"
+    "pug": "^3.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
